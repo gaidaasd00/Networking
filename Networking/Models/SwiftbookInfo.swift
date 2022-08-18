@@ -8,5 +8,5 @@
 struct SwiftbookInfo: Decodable {
     let courses: [Course]?
     let websiteDescription: String?
-    let websiteName: String?
+    let websiteName: String? 
 }

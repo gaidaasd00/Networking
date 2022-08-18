@@ -8,6 +8,6 @@
 struct Course:Decodable  {
     let name: String?
     let imageUrl: String?
-    let number_of_lessons: Int?
-    let number_of_test: Int?
+    let numberOfLessons: Int?
+    let numberOfTest: Int?
 }
